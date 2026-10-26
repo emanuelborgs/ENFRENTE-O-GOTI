@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://df3ejj4sngr8v"]
+
+[node name="jogo" type="Node2D" unique_id=1864765522]
+
+[node name="mundo" type="Node2D" parent="." unique_id=1665812816]
+
+[node name="chao" type="TileMapLayer" parent="mundo" unique_id=1011965521]
+
+[node name="obstaculos" type="TileMapLayer" parent="mundo" unique_id=2139522681]
